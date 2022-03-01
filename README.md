@@ -1,3 +1,4 @@
+[![MasterHead](https://export-download.canva.com/QDCQM/DAE5uAQDCQM/37/0/0001-20134209293.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220301T080108Z&X-Amz-Expires=9496&X-Amz-Signature=1f5c9048610c3f0ea58d552c45f49781f243fc29a0b4de79e80fddd0d6e4f22e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Neon%2520Green%2520Futuristic%2520Twitch%2520Banner.png&response-expires=Tue%2C%2001%20Mar%202022%2010%3A39%3A24%20GMT)](https://faisalai541.io)
 <h1 align="center">Hi 👋, I'm Faisal Ahmad</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
@@ -18,6 +19,7 @@
 - ⚡ Fun fact **I think I am Motivational Speaker**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
 <p align="left">
 <a href="https://linkedin.com/in/faisal ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal ahmad" height="30" width="40" /></a>
 </p>
